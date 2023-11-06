@@ -1,2 +1,1 @@
-# ai-templates
-AI and Generative AI Templates
+# AI and Generative AI Templates 
