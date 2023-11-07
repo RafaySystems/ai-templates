@@ -1,5 +1,8 @@
 # AI and Generative AI Templates 
-This Git repository aggregates multiple Git repos which host "infrastructure templates" for a variety of use cases for Generative AI, AI and HPC applications. These templates are based on Rafay Environment Manager and/or Kubernetes Manager. 
+This Git repository **aggregates** multiple Rafay Git repos which host "infrastructure templates" for a variety of use cases for Generative AI, AI and HPC applications. These templates are based on Rafay Environment Manager and/or Kubernetes Manager. 
+
+!!! important
+    Additional templates are in active development and expected to launch in the upcoming weeks. 
 
 **Documentation**
 https://docs.rafay.co/refarch/overview/
