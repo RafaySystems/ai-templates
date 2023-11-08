@@ -35,7 +35,7 @@ https://github.com/RafaySystems/envmgr/tree/main/terraform/aws/101-genai-eks
 https://docs.rafay.co/refarch/genai/kubeflow-eks/overview/
 
 **Code** 
-https://github.com/RafaySystems/envmgr/tree/main/terraform/aws/101-kubeflow-eks
+Coming soon (https://github.com/RafaySystems/envmgr/tree/main/terraform/aws/101-kubeflow-eks)
 
 --- 
 
@@ -46,3 +46,4 @@ https://github.com/RafaySystems/envmgr/tree/main/terraform/aws/101-kubeflow-eks
 https://docs.rafay.co/refarch/genai/slurm/overview/ 
 
 **Code** 
+Coming soon!
