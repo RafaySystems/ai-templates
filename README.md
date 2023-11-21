@@ -32,7 +32,7 @@ https://github.com/RafaySystems/envmgr/tree/main/terraform/aws/101-genai-eks
 [Kubeflow](https://www.kubeflow.org/) provides a simple, portable, and scalable way of running Machine Learning workloads on Kubernetes. Use Kubeflow to build ML systems to build, train, tune, and deploy ML models for a wide variety of use cases, including computer vision, natural language processing, speech translation, and financial modeling. Provide a self service experience for data scientists by deploying both the infrastructure and Kubeflow on [Amazon EKS](https://aws.amazon.com/eks/). 
 
 **Documentation** 
-https://docs.rafay.co/refarch/genai/kubeflow-eks/overview/
+https://docs.rafay.co/refarch/genai/eks-kubeflow/overview/
 
 **Code** 
 https://github.com/RafaySystems/envmgr/tree/main/terraform/aws/101-kubeflow-eks
